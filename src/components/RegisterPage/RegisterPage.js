@@ -8,6 +8,7 @@ import firebase from "../../firebase";
 
 import md5 from "md5";
 
+//이거 버전 체인지 해야됨
 import {
   createUserWithEmailAndPassword,
   signInWithEmailAndPassword,
